@@ -10,10 +10,10 @@ Database project developed as part of a DBMS course, covering relational databas
 
 ## Repository Structure
 
-- `01_Documentatie/` - requirements and supporting documentation
-- `03_Diagrame/` - ER diagram source and preview
-- `04_Capturi/` - screenshots demonstrating the SQL requirements
-- `05_Livrabile/` - final SQL script, project document, and presentation
+- `Documentatie/` - requirements and supporting documentation
+- `Diagrame/` - ER diagram source and preview
+- `Capturi/` - screenshots demonstrating the SQL requirements
+- `Livrabile/` - final SQL script, project document, and presentation
 
 ## Skills Demonstrated
 
